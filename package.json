@@ -1,0 +1,25 @@
+{
+  "name": "26_b2_r1",
+  "version": "1.0.0",
+  "description": "Este es un proyecto backend desarrollado con **Java 21** y **Spring Boot** para la gestión de estudiantes. Incluye una API RESTful que permite crear, leer, actualizar y eliminar (CRUD) registros de estudiantes, persistiendo los datos en una base de datos **PostgreSQL**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebas-1013/26_b2_r1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebas-1013/26_b2_r1/issues"
+  },
+  "homepage": "https://github.com/Sebas-1013/26_b2_r1#readme",
+  "dependencies": {
+    "@prisma/client": "^7.4.1",
+    "express": "^5.2.1",
+    "prisma": "^7.4.1"
+  }
+}
